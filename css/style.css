@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(210, 206, 206);
+}
+
+#todoLIst {
+    color: rgb(132, 16, 16);
+}
+
+.box {
+    padding: 10px;
+    margin: 15px;
+    font-size: 18px;
+    background-color: rgb(132, 16, 16);
+    color: white;
+    border: double
+}
+
+p {
+    text-align: left;
+    background-color: rgb(132, 16, 16);
+}
+
+.heder {
+    width: 60%;
+    font-size: 18px;
+    text-align: center;
+    color: orange;
+}
+
+#search1 {
+    width: 70%;
+    margin: 20px auto;
+}
+
+.s {
+    width: 100%;
+    font-size: 18px;
+    color: orange;
+    text-align: center;
+}
+
+button,
+input {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px 0;
+    background-color: rgb(132, 16, 16);
+    color: white;
+}
+
+a,
+ul,
+li {
+    text-decoration: none;
+    background-color: rgb(132, 16, 16);
+    color: white;
+}
+
+input {
+    padding: 10px 50px;
+}
+
+.lb {
+    font-size: 25px;
+}
